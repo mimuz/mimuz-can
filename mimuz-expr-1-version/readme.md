@@ -1,6 +1,6 @@
 # mi:muz:can (mi:muz:expr#1 Version)
 
-![mimuz-can logo](./mimuz-can.png)
+![mimuz-can logo](../mimuz-can.png)
 
 ![can attacker](can.JPG)
 

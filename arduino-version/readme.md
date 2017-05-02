@@ -1,6 +1,6 @@
 # mi:muz:can (Arduino Version)
 
-![mimuz-can logo](./mimuz-can.png)
+![mimuz-can logo](../mimuz-can.png)
 
 # 1. Arduio UNO Version
 
