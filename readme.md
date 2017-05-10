@@ -3,6 +3,9 @@
 ![mimuz-can logo](./mimuz-can.png)
 
 `mi:muz-can` and variations are small boards for build easier to midi instrument that sounds cans using with push solenoid.
+
+![mimuz-can-system](./mimuz-can-system.png)
+
 The following variations are exist:
 
 ## In Production
