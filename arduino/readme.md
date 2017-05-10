@@ -1,4 +1,4 @@
-# mi:muz:can (Arduino Version)
+# mi:muz:can previous draft versions (Arduino versions)
 
 ![mimuz-can logo](../mimuz-can.png)
 
