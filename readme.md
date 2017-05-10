@@ -22,7 +22,7 @@ All of the mi:muz:can devices are now only support the following 5V PUSH type so
 - [Licences for mi:muz:can](./mimuz-can/LICENSE.md)
 - [Licences for mi:muz:can-lite](./mimuz-can-lite/LICENSE.md)
 
-## [Previous draft versions (Arduino versions)](./arduino)
+## [Previous draft versions (Arduino versions)](./draft)
 
 Previous draft versions (Arduino versions) are for experimental use versions made with [Arduino UNO Rev.3](https://store.arduino.cc/arduino-uno-rev3), [Ardiono Leonardo](https://www.arduino.cc/en/main/arduinoBoardLeonardo) and [mi:muz:expr#1](https://github.com/mimuz/mimuz-avr-core/tree/master/boards/expr1).
 
