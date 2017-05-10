@@ -2,7 +2,7 @@
 
 ![mimuz-can logo](../mimuz-can.png)
 
-"mi:muz:can-lite" is USB-MIDI instrument that sounds up to 2 cans using with push solenoid. This is a "simple for use" version, It has micro-B usb connector for using USB charger for smartphone/tablet.
+"mi:muz:can-lite" is a boards for build easily to USB-MIDI instrument that sounds up to 2 cans using with push solenoid. This is a "simple for use" version, It has micro-B usb connector for using USB charger for smartphone/tablet.
 
 
 # detail
