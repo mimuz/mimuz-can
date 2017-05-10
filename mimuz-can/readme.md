@@ -12,7 +12,7 @@
 
 ![board](./eagle-files/board-v0.30.png)
 
-[eagle files (v0.20)](./eagle-files/v0.30)
+[eagle files (v0.30)](./eagle-files/v0.30)
 
 ## parts
 
