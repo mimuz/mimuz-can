@@ -7,8 +7,8 @@ The following variations are exist:
 
 ## In Production
 
-- [mi:muz:can (Standard Version)](./mimuz-can): "mi:muz:can" is a boards for build easily to USB-MIDI instrument that sounds up to 6 cans using with push solenoid. For using powerful electric current, It has 2.1mm DC Jack for 12V DC Power supply.
-- [mi:muz:can-lite](./mimuz-can-lite): "mi:muz:can-lite" is a boards for build easily to USB-MIDI instrument that sounds up to 2 cans using with push solenoid. This is a "simple for use" version, It has micro-B usb connector for using USB charger for smartphone/tablet.
+- [mi:muz:can (Standard Version)](./mimuz-can): "mi:muz:can" is a board for build easily to USB-MIDI instrument that sounds up to 6 cans using with push solenoid. For using powerful electric current, It has 2.1mm DC Jack for 12V DC Power supply.
+- [mi:muz:can-lite](./mimuz-can-lite): "mi:muz:can-lite" is a board for build easily to USB-MIDI instrument that sounds up to 2 cans using with push solenoid. This is a "simple for use" version, It has micro-B usb connector for using USB charger for smartphone/tablet.
 
 ## Solenoids
 

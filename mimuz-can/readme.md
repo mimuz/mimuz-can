@@ -2,7 +2,7 @@
 
 ![mimuz-can logo](../mimuz-can.png)
 
-"mi:muz:can" is a boards for build easily to USB-MIDI instrument that sounds up to 6 cans using with push solenoid. For using powerful electric current, It has 2.1mm DC Jack for 12V DC Power supply.
+"mi:muz:can" is a board for build easily to USB-MIDI instrument that sounds up to 6 cans using with push solenoid. For using powerful electric current, It has 2.1mm DC Jack for 12V DC Power supply.
 
 # detail
 
